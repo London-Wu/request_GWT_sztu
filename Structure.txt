@@ -1,0 +1,34 @@
+<ul class="news-ul text-center"> 主体
+        <li class="clearfix" id="line_u6_0" style=""> 文章
+
+        <div class="pull-left width01" style="width:5%;">
+            <span style="">
+                序号
+            </span>
+        </div>
+
+        <div class="pull-left width02" style="width:10%;">
+            <a class="nav03" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1020" target="_self">
+                类别
+            </a>
+        </div>
+
+        <div class="pull-left width03 txt-elise" style="width:15%;cursor: pointer;">
+            <a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1029&amp;scourname=%E9%87%87%E8%B4%AD%E4%B8%8E%E6%8B%9B%E6%8A%95%E6%A0%87%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83" style="font-size: 14px;" target="_self">
+                发文单位
+            </a>
+        </div>
+
+        <div class="pull-left width04 txt-elise text-left" style="width:54%;">
+            <a href="info/1020/40388.htm" style="color:#ff002b;" target="_blank" title="关于开展政府购买服务项目自查工作的紧急通知">
+                标题
+            </a>
+        </div>
+
+        <div class="pull-left width05" style="width:5%;height:32px;">
+            <img src="images/fujian.png"/>（有附件）
+        </div>
+
+        <div class="pull-right width06" style="width:11%;">
+            发文日期
+        </div>

@@ -4,8 +4,6 @@ import requests
 from bs4 import BeautifulSoup
 import os
 
-class Arctical():
-    def __init__(self, ):
 # 获取公文通文章，并存储标题及链接
 urls=[] #链接
 name=[] #标题
